@@ -7,7 +7,7 @@ A simple Python To-Do List with deadlines and priority tracking
 -  Get alerted if a task is overdue
 -  Mark tasks as done
 -  Delete tasks
-📌 Deadline Format:-
+#📌 Deadline Format:-
 Always enter the deadline in this format: `DD-MM-YYYY`
 Built With Python 3
 - `datetime` module (built-in, no installs needed)
