@@ -1,6 +1,6 @@
 # ToDo-list-python
 A simple Python To-Do List with deadlines and priority tracking
- Features:-
+## Features:-
  Add tasks with name, priority, and deadline
 - View all tasks in a clean format
 -  See how many days are left for each task
